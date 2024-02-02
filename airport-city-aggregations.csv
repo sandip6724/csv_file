@@ -1,0 +1,198 @@
+index,City,code_3,code_4
+0,Tokyo,HND,RJTT
+1,Tokyo,NRT,RJAA
+2,Delhi,DEL,VIDP
+3,Shanghai,SHA,ZSSS
+4,Shanghai,PVG,ZSPD
+5,São Paulo,GRU,SBGR
+6,São Paulo,CGH,SBSP
+7,São Paulo,VCP,SBKP
+8,Ciudad de México (Mexico City),MEX,MMMX
+9,Al-Qahirah (Cairo),CAI,HECA
+10,Mumbai (Bombay),BOM,VABB
+11,Beijing,BEK,ZBAA
+12,Beijing,NAY,ZBNY
+13,Dhaka,DAC,VGHS
+14,Kinki M.M.A. (Osaka),KIX,RJBB
+15,Kinki M.M.A. (Osaka),ITM,RJOO
+16,Kinki M.M.A. (Osaka),UKB,RJBE
+17,New York-Newark,JFK,KJFK
+18,New York-Newark,LGA,KLGA
+19,New York-Newark,HPN,KHPN
+20,New York-Newark,EWR,KEWR
+21,Karachi,KHI,OPKC
+22,Buenos Aires,AEP,SABE
+23,Buenos Aires,EZE,SAEZ
+24,Chongqing,CKG,ZUCK
+25,Istanbul,IST,LTBA
+26,Istanbul,SAW,LTFJ
+27,Kolkata (Calcutta),CCU,VECC
+28,Manila,MNL,RPLL
+29,Lagos,LOS,DNMM
+30,Rio de Janeiro,GIG,SBGL
+31,Rio de Janeiro,SDU,SBRJ
+32,Rio de Janeiro,,SBJR
+33,Tianjin,TSN,ZBTJ
+34,Kinshasa,FIH,FZAA
+35,"Guangzhou, Guangdong",CAN,ZGGG
+36,Los Angeles-Long Beach-Santa Ana,LAX,KLAX
+37,Los Angeles-Long Beach-Santa Ana,ONT,KONT
+38,Los Angeles-Long Beach-Santa Ana,VNY,
+39,Los Angeles-Long Beach-Santa Ana,BUR,KBUR
+40,Los Angeles-Long Beach-Santa Ana,PMD,
+41,Moskva (Moscow),SVO,UUEE
+42,Moskva (Moscow),DME,UUDD
+43,Moskva (Moscow),VKO,UUWW
+44,Moskva (Moscow),BKA,UUBB
+45,Shenzhen,SZX,ZGSZ
+46,Lahore,LHE,OPLA
+47,Bangalore,,VOBG
+48,Bangalore,BLR,VOBL
+49,Paris,LBG,LFPB
+50,Paris,BVA,LFOB
+51,Paris,CDG,LFPG
+52,Paris,ORY,LFPO
+53,Bogotá,BOG,SKBO
+54,Jakarta,CGK,WIII
+55,Jakarta,HLP,WIHH
+56,Chennai (Madras),MAA,VOMM
+57,Lima,LIM,SPIM
+58,Krung Thep (Bangkok),BKK,VTBS
+59,Seoul,ICN,RKSI
+60,Seoul,GMP,RKSS
+61,Chukyo M.M.A. (Nagoya),NGO,RJGG
+62,Hyderabad,HYD,VOHY
+63,London,LHR,EGLL
+64,London,LGW,EGKK
+65,London,SEN,EGMC
+66,London,STN,EGSS
+67,London,LTN,EGGW
+68,London,BQH,EGKB
+69,London,LCY,EGLC
+70,Tehran,THR,OIII
+71,Tehran,IKA,OIIE
+72,Chicago,ORD,KORD
+73,Chicago,MDW,KMDW
+74,Chicago,RFD,KRFD
+75,Chengdu,CTU,ZUUU
+76,"Nanjing, Jiangsu",NKG,ZSNJ
+77,Wuhan,WUH,ZHHH
+78,Thành Pho Ho Chí Minh (Ho Chi Minh City),SGN,VVTS
+79,Luanda,LAD,FNLU
+80,Ahmadabad,AMD,VAAH
+81,Kuala Lumpur,KUL,WMKK
+82,"Xi'an, Shaanxi",XIY,ZLXY
+83,Hong Kong,HKG,VHHH
+84,Dongguan,CAN,ZGGG
+85,Hangzhou,HGH,ZSHC
+86,Berlin,TXL,EDDT
+87,Berlin,SXF,EDDB
+88,Bucharest,OTP,LROP
+89,Bucharest,BBU,LRBS
+90,Milano (Milan),MXP,LIMC
+91,Milano (Milan),LIN,LIML
+92,Milano (Milan),BGY,LIME
+93,Milano (Milan),PMF,LIMP
+94,Montreal,YUL,CYUL
+95,Montreal,YMX,CYMX
+96,Montreal,YHU,CYHU
+97,Roma (Rome),FCO,LIRF
+98,Roma (Rome),CIA,LIRA
+99,Sapporo,CTS,RJCC
+100,Sapporo,OKD,RJCO
+101,Stockholm,ARN,ESSA
+102,Stockholm,BMA,ESSB
+103,Stockholm,NYO,ESKN
+104,Stockholm,VST,ESOW
+105,Toronto,YYZ,CYYZ
+106,Toronto,YTZ,CYTZ
+107,Toronto,YHM,CYHM
+108,Toronto,YKF,CYKF
+109,DC,IAD,KIAD
+110,DC,DCA,KDCA
+111,DC,BWI,KBWI
+112,Bangkok,BKK,VTBS
+113,Bangkok,DMK,VTBD
+114,Dubai,DXB,OMDB
+115,Dubai,DWC,OMDW
+116,Johannesburg,JNB,FAJS
+117,Johannesburg,HLA,FAOR
+118,Kuala Lumpur,KUL,WMKK
+119,Kuala Lumpur,SZB,WMSA
+120,Medellin,MDE,SKRG
+121,Medellin,EOH,SKMD
+122,Chukyo M.M.A. (Nagoya),NGO,RJGG
+123,Chukyo M.M.A. (Nagoya),NKM,RJNA
+124,Taipei,TPE,RCTP
+125,Taipei,TSA,RCSS
+126,Oslo,OSL,ENGM
+127,Oslo,TRF,ENTO
+128,Oslo,RYG,ENRY
+129,Warsaw,WAW,EPWA
+130,Warsaw,WMI,EPMO
+131,Dallas,DAL,KDAL
+132,Dallas,DFW,KDFW
+133,Detroit,DTW,KDTW
+134,Detroit,DET,KDET
+135,Detroit,YIP,KYIP
+136,Edmonton,YEG,CYEG
+137,Edmonton,YXD,CYXD
+138,Houston,IAH,KIAH
+139,Houston,HOU,KHOU
+140,Miami,MIA,KMIA
+141,Miami,FLL,KFLL
+142,Miami,PBI,KPBI
+143,San Francisco-Oakland,SFO,KSFO
+144,San Francisco-Oakland,OAK,KOAK
+145,San Francisco-Oakland,SJC,KSJC
+146,Brussels,BRU,EBBR
+147,Brussels,CRL,EBCI
+148,Reykjavik,KEF,BIKF
+149,Reykjavik,RKV,BIRK
+150,Tenerife,TFN,GCXO
+151,Tenerife,TFS,GCTS
+152,Belo Horizonte,CNF,SBCF
+153,Belo Horizonte,PLU,SBBH
+154,Venice,TSF,LIPH
+155,Venice,VCE,LIPZ
+156,Kiev,KBP,UKBB
+157,Kiev,IEV,UKKK
+158,Glasgow,GLA,EGPF
+159,Glasgow,PIK,EGPK
+160,Lyon,LYS,LFLL
+161,Lyon,LYN,LFLY
+162,Belfast,BFS,EGAA
+163,Belfast,BHD,EGAC
+164,Las Vegas,LAS,KLAS
+165,Las Vegas,VGT,KVGT
+166,Phoenix,PHX,KPHX
+167,Phoenix,AZA,KIWA
+168,Orlando,MCO,KMCO
+169,Orlando,ORL,KSFB
+170,Columbus,CMH,KCMH
+171,Columbus,LCK,KLCK
+172,Milwaukee,MKE,KMKE
+173,Milwaukee,MWC,KMWC
+174,Curitiba,BFH,SBBI
+175,Curitiba,CWB,SBCT
+176,Melbourne,MEL,YMML
+177,Melbourne,MEB,YMEN
+178,Dar es Salaam,DAR,HTDA
+179,Foshan,FUO,ZGFS
+180,Shenyang,SHE,ZYTX
+181,Ar-Riyadh (Riyadh),RUH,OERK
+182,Baghdad,BGW,ORBI
+183,Santiago,SCL,SCEL
+184,Surat,STV,VASU
+185,Madrid,MAD,LEMD
+186,Madrid,CQM,LERL
+187,Madrid,,LECU
+188,"Suzhou, Jiangsu",WUX,ZSWX
+189,Pune (Poona),PNQ,VAPO
+190,Haerbin,HRB,ZYHB
+191,Dallas-Fort Worth,DFW,KDFW
+192,Dallas-Fort Worth,DAL,KDAL
+193,Singapore,SIN,WSSS
+194,Singapore,XSP,WSSL
+195,Philadelphia,PHL,KPHL
+196,Philadelphia,PNE,KPNE
